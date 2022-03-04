@@ -9,7 +9,8 @@
 
 使用 Python 與 R 製作飛機引擎可靠度分析報表   
 成效：原需 4 小時完成的工作量，縮減至 5 分鐘內可完成，並且降低人為輸入錯誤  
-[檔案連結](https://github.com/ccu92/python-tool/blob/master/COMBO.py)(https://github.com/ccu92/R_small_tool/blob/main/lineChart.R)
+[檔案連結 1 ](https://github.com/ccu92/python-tool/blob/master/COMBO.py)
+[檔案連結 2 ](https://github.com/ccu92/R_small_tool/blob/main/lineChart.R)
 
 #### 長榮航太科技股份有限公司 — 2015. 08 至 2016. 07
 執行飛機維修工作
